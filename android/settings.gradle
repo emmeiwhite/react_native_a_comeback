@@ -1,0 +1,3 @@
+rootProject.name = 'come_back_project'
+
+include ':app'
